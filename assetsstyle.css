@@ -1,6 +1,6 @@
 body{
     width: 960px;
-    background-color: #ffffff;
+    background-color: #dddd;
 }
 
 h1{
@@ -12,15 +12,14 @@ h1{
   }
 
 
-h4{
+a{
     text-decoration: none;
     color: #777777;
     float: right;
     text-align: right;
     font-family: Arial, Helvetica, sans-serif;
     margin-inline-end: 15px;
-        
-}
+    }
 
 
 .aboutme{
@@ -28,15 +27,12 @@ h4{
     font-size: 18px;
     color: #4aaaa5;
     margin: 100px;
-    background-color: #ccc;
+    background-color: #dddddd;
     padding: 20px;
     width: 700px;
-  
-   
-}
- .image {
-    float: left;
- }
+  }
+
+ 
 
  .footer{
     background-color: #666666;
@@ -44,5 +40,5 @@ h4{
     height: 30px;
     font-size: 12px;
     text-align: center;
-    margin-top: 20px;
+    
  }
